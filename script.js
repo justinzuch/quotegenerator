@@ -1,4 +1,4 @@
-
+//Quotes saved to variables
 
 var quotes = [
 	// Array for all the random quotes.
